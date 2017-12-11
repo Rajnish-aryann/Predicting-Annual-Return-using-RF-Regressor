@@ -1,3 +1,5 @@
+Brainwaves Machine Learning Challenge Problem 1 hosted on hackerearth
+
 Societe Generale (SocGen) is a French multinational banking and financial services company. With over 1,54,000 employees, based in 76 countries, they handle over 32 million clients throughout the world on a daily basis.
 
 They provide services like retail banking, corporate and investment banking, asset management, portfolio management, insurance and other financial services.
